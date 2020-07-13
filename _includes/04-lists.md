@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* :sparkles: The Ocean
+* :heart: My Cat
+* :tada: Learning New Things
